@@ -5,4 +5,4 @@ WORKDIR /app
 
 RUN yarn
 
-EXPOSE 3001
+EXPOSE 3000
